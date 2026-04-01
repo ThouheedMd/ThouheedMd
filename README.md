@@ -39,7 +39,7 @@
 * Optimized for scalable deployment
 * Clean and responsive UI
 
-👉 https://github.com/ThouheedMd/YOUR-REPO-LINK
+👉 https://github.com/ThouheedMd/dockerized-website.git
 
 ---
 
