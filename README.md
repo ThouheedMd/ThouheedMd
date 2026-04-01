@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Thouheed Mohammed 👋
 
-<!--
-**ThouheedMd/ThouheedMd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Enthusiast
+🔧 I build and deploy scalable applications using Docker, CI/CD & Azure
+📍 Open to internships and entry-level DevOps roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* Passionate about **DevOps, Cloud & Automation**
+* Hands-on experience with **Docker & CI/CD pipelines**
+* Focused on building **real-world, production-ready projects**
+* Currently learning **Kubernetes & Cloud deployments**
+
+---
+
+## 🛠 Tech Stack
+
+**DevOps & Cloud**
+
+* Docker
+* Azure DevOps
+* CI/CD Pipelines
+
+**Programming & Tools**
+
+* Git & GitHub
+* Linux
+* HTML, CSS, JavaScript
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Dockerized E-commerce Website
+
+* Fully containerized web application using Docker
+* Optimized for scalable deployment
+* Clean and responsive UI
+
+👉 https://github.com/ThouheedMd/YOUR-REPO-LINK
+
+---
+
+### 🔹 Portfolio with CI/CD Pipeline
+
+* Automated build & deployment using Azure DevOps
+* Integrated GitHub with CI/CD workflow
+* Live deployment setup
+
+👉 https://github.com/ThouheedMd/YOUR-REPO-LINK
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ThouheedMd\&show_icons=true\&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=ThouheedMd\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThouheedMd\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/thouheed-mohammed
+* GitHub: https://github.com/ThouheedMd
+
+---
+
+## 🎯 Goals
+
+* Master Kubernetes & Cloud (Azure/AWS)
+* Build advanced DevOps projects
+* Contribute to open-source
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
