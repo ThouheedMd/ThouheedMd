@@ -49,7 +49,7 @@
 * Integrated GitHub with CI/CD workflow
 * Live deployment setup
 
-👉 https://github.com/ThouheedMd/YOUR-REPO-LINK
+👉 https://github.com/ThouheedMd/azure-devops-cicd-project.git
 
 ---
 
