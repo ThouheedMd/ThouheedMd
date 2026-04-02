@@ -74,7 +74,7 @@
 
 ## 🎯 Goals
 
-* Master Kubernetes & Cloud (Azure/AWS)
+* Master Kubernetes & Cloud (Azure)
 * Build advanced DevOps projects
 * Contribute to open-source
 
