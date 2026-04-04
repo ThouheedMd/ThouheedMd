@@ -1,7 +1,9 @@
 # Hi, I'm Thouheed Mohammed 👋
 
 🚀 DevOps & Cloud Enthusiast
+
 🔧 I build and deploy scalable applications using Docker, CI/CD & Azure
+
 📍 Open to internships and entry-level DevOps roles
 
 ---
