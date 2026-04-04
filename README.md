@@ -57,11 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThouheedMd\&show_icons=true\&theme=radical)
-
 ![Streak](https://streak-stats.demolab.com/?user=ThouheedMd\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThouheedMd\&layout=compact\&theme=radical)
 
 ---
 
